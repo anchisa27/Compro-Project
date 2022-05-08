@@ -16,7 +16,7 @@
 # Youtube
   >https://youtu.be/_vu-2YZZsYE
 # Poster
-
+![](Poster/filename%20Compro_Print.png)
 
 ### สมาชิก
 ---
