@@ -11,7 +11,7 @@
   > * Led
   > * Buzzer
 # บทคัดย่อ
-  >https://docs.google.com/document/d/1936tBZLajZ-pPZXYmw7gEOF4LAqfCF6-tYZ3FtyNBQU/edit
+  >https://docs.google.com/document/d/1936tBZLajZ-pPZXYmw7gEOF4LAqfCF6-tYZ3FtyNBQU/edit?usp=sharing
 # Our Project by WOKWI
   >https://wokwi.com/projects/330750364307423827
 # Youtube
